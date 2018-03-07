@@ -30,7 +30,7 @@ end
 
 Copy the code, then execute fmt in the Matlab command line window. After that, the formatted code whill replaces the original content in the clipboard, so paste it back. Finish!
 
-> ctrl-c -> fmt -> ctrl+v
+> ctrl+c -> fmt -> ctrl+v
 
 ## Attention
 
