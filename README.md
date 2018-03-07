@@ -23,7 +23,6 @@ end
 ## Configuration
 
 - Add the fmt folder to the search path of Matlab.
-
 - Modify the path of Formatter.jar in fmt.m.
 
 ## Useage
